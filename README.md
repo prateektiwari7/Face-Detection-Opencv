@@ -21,3 +21,6 @@ now run the file
 then run the 
 (cv)$ python face_recognition.py
 
+
+Download the viedo from My drive
+https://drive.google.com/file/d/1XfzLRL_TO_tJh18_k_mjX_wEj7xqNOLt/view?usp=sharing
